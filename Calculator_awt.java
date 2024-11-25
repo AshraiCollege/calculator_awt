@@ -2,6 +2,7 @@
 package calculator_awt;
 
 
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
@@ -16,6 +17,14 @@ class Calculator_awt
         
         JButton b=new JButton("Click Here");  
        
+
+    
+     
+  
+        System.out.println("Hi Java");
+        System.out.println("Hi Java from versaion 2");
+        System.out.println("Java Program");
+
         
         // Creating two JTextField objects  
         JTextField t1, t2,t3,t4,t5,t6;    
